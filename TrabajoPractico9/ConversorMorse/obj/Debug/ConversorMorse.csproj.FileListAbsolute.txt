@@ -1,0 +1,7 @@
+C:\Users\Facundo\Desktop\Repositorio\tp-nro9-FacuCR\TrabajoPractico9\ConversorMorse\bin\Debug\ConversorMorse.exe.config
+C:\Users\Facundo\Desktop\Repositorio\tp-nro9-FacuCR\TrabajoPractico9\ConversorMorse\bin\Debug\ConversorMorse.exe
+C:\Users\Facundo\Desktop\Repositorio\tp-nro9-FacuCR\TrabajoPractico9\ConversorMorse\bin\Debug\ConversorMorse.pdb
+C:\Users\Facundo\Desktop\Repositorio\tp-nro9-FacuCR\TrabajoPractico9\ConversorMorse\obj\Debug\ConversorMorse.csprojAssemblyReference.cache
+C:\Users\Facundo\Desktop\Repositorio\tp-nro9-FacuCR\TrabajoPractico9\ConversorMorse\obj\Debug\ConversorMorse.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Desktop\Repositorio\tp-nro9-FacuCR\TrabajoPractico9\ConversorMorse\obj\Debug\ConversorMorse.exe
+C:\Users\Facundo\Desktop\Repositorio\tp-nro9-FacuCR\TrabajoPractico9\ConversorMorse\obj\Debug\ConversorMorse.pdb
